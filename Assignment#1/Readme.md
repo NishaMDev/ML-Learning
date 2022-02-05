@@ -27,7 +27,9 @@ Note detailed reading at :
 a. K-means Clustering, Section 13.2.1, EOSL (see textbook 2 above), b. code (Links to an external site.); c: K-means Clustering Notes (Links to an external site.)
 Use Google Colab tool with , python 3.6 notebook to submit your assignment. Please add your data to the common drive : https://drive.google.com/drive/folders/1xzZXB2rEYxTAS5Ax8Po_yQMaN_mrCI_h?usp=sharing (Links to an external site.)
 (MLFall2020)
-**PLease Note -Since the team did not have access to actual Gdrive, team created their own folder in one of the team members google drive and share the link with the rest team members. **
+
+
+****PLease Note -Since the team did not have access to actual Gdrive, team created their own folder in one of the team members google drive and share the link with the rest team members. ****
 
 
 Each member of the team will apply two algorithms, one with scikit, the other with tensorflow or pytorch.
