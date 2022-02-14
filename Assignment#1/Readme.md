@@ -33,3 +33,6 @@ Use Google Colab tool with , python 3.6 notebook to submit your assignment. Plea
 
 
 Each member of the team will apply two algorithms, one with scikit, the other with tensorflow or pytorch.
+
+
+**IMPORTANT - Google Drive link for the assignment is updated - https://drive.google.com/drive/folders/1pVM6lvlj_G-ReuzAaoNWQYDimHS6z_9X?usp=sharing**
