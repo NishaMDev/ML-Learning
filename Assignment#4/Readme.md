@@ -1,20 +1,26 @@
 **Assignment#4**
 
-Latent Features & Manifolds
-nonparametric bayesian (Links to an external site.) [reading] .. This is a tough article. Skim and get the main points
-Latent Variable Models (Links to an external site.), Latent Variable Models and Factor Analysis (Links to an external site.) [reading]
+Latent Features & Manifolds:-
+nonparametric bayesian (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155706) [reading] .. This is a tough article. Skim and get the main points
+
+Latent Variable Models (http://www.econ.upf.edu/~michael/latentvariables/lecture1.pdf.), Latent Variable Models and Factor Analysis (http://www.stats.ox.ac.uk/~steffen/teaching/fsmHT07/fsm607c.pdf) [reading]
+
 2-3 Latent Variables (Manifold) pertaining to your domain [Project]
-read about your domain, find articles, 1/person
-add them to your dataset by either
-computation
+
+-read about your domain, find articles, 1/person
+- add them to your dataset by either
+- computation
 or amalgamation of a new data set
-scrapy
-beautiful soup
+- scrapy
+- beautiful soup
+
 Training. Train Test Splitting (Links to an external site.) [fyi]
- (Links to an external site.)
+ (https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+ 
 Implement a Multi-Layer Perceptron Neural Network with Keras
 https://machinelearningmastery.com/neural-networks-crash-course/ (Links to an external site.)[reading]
 https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/ (Links to an external site.)  [sample implementation]
+
 Implement a Muller Loop: MLPRegressor, LinearRegression, RandomForestRegressor, KNNRegressor, XBoost Regressor, etc. [Project]
 https://github.com/aarsanjani/applied-ml-2020/blob/master/MullerLoop.ipynb (Links to an external site.) 
 https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html (Links to an external site.)
