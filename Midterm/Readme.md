@@ -3,41 +3,28 @@ You have been assigned to domain project with its initial dataset:
 
 Dataset Link: https://drive.google.com/file/d/16rfZXQtojMACPRaeNm-kxOE8JphglOKS/view?usp=sharing
 
-Rubric: 
+Map Visuals:-
 
-business case and value-- what hypotheses are you trying to prove? see above questions
-data narrative: tell a story to guide an investor or a retiree or just someone interested in buying...
-visualizations, of data prep using first data enrichment (add dataset to base data set) 
-feature importance; gini score
-Data Prep
-feature transformation ;
-transform features, add new features to dataset via amalgamations (see below) , compare results with original
-data distribution
-include dim reduction via: PCA 
-Implement 3 amalgamations:
-first data set 
-second data enrichment [find or scrape a new data set ] -- get an amalgamation; each enrichment enables you to implement / use more algorithms as needed.
-How many did you scrape?
-Third data enrichment -- scrape data from a source and amalgamate
-How many did you scrape?
-implement ml algorithms to build models and refine your data narrative
-Define a Golden cluster and use Fractal Clustering to find it based on the business case you formulate
-train and Apply algorithms : you can use the muller loop
-classify: Muller, at least 5 algos
-Regression: Muller, at least 7 algos
-Compare relevant tasks in the same table.
-Write a data narrative to interpret results of each algorithm
-Suggest Latent Variables or Latent Manifolds, add then to the features and see how prediction results change
-use appropriate metrics for measuring models and compare them in a table: regression metrics and/or classification metrics (confusion matrix, f1)
+<img width="1304" alt="image" src="https://user-images.githubusercontent.com/89233753/159429565-cc373abc-20dc-4685-a4c2-6cef9b6f84b8.png">
 
+DashBoard:-
+<img width="1304" alt="image" src="https://user-images.githubusercontent.com/89233753/159430067-c3bd5ec2-58ea-4954-8b74-15db93713192.png">
+
+![WhatsApp Image 2022-03-22 at 12 26 38 AM](https://user-images.githubusercontent.com/89233753/159430353-b5af4db3-c728-4763-b5ba-f0f66c5b039e.jpeg)
+
+![WhatsApp Image 2022-03-22 at 12 27 14 AM](https://user-images.githubusercontent.com/89233753/159430423-4578fa82-f755-4340-9966-8a9a0df8519f.jpeg)
 
 Solution:-
-
-<ul>Dataset Link - 
+Dataset Link - 
+<ul>
 <li>Original dataset - https://drive.google.com/drive/folders/1j8pVyNTaUINiJ2Fvn4xbKnRdiHJ3VNq_?usp=sharing</li>
 <li>Scraped dataset - https://drive.google.com/drive/folders/1oYJ4_QIOifrt-MLULWEBzY7DjGX2yRNU?usp=sharing</li>
 <li>California dataset - https://drive.google.com/drive/folders/13H0nKtL7nQpGmt66YYI4VvVW6TqhsYA0?usp=sharing</li>
  </ul> 
+ 
+ <li>Collab link - https://drive.google.com/drive/folders/1G6fCpviuQPWQN3g-KP8N254p79R_DrXn</li>
+ 
+
   
 
   
