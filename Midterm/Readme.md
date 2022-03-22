@@ -22,7 +22,8 @@ Dataset Link -
 <li>California dataset - https://drive.google.com/drive/folders/13H0nKtL7nQpGmt66YYI4VvVW6TqhsYA0?usp=sharing</li>
  </ul> 
  
- <li>Collab link - https://drive.google.com/drive/folders/1G6fCpviuQPWQN3g-KP8N254p79R_DrXn</li>
+ <li>Collab link - https://drive.google.com/drive/folders/1G6fCpviuQPWQN3g-KP8N254p79R_DrXn  OR  https://colab.research.google.com/drive/1uHQDxB7i8D1Fgb3lqxV6q_ZCiqdp_RPc?usp=sharing </li>
+ 
  
 
   
