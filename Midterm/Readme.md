@@ -2,7 +2,7 @@
 You have been assigned to domain project with its initial dataset: 
 
 Dataset Link: https://drive.google.com/file/d/16rfZXQtojMACPRaeNm-kxOE8JphglOKS/view?usp=sharing
-
+Video Link : https://drive.google.com/drive/folders/1Of2ObSPuCpsRLg78QlF7dYjAgcpUay8D?usp=sharing
 Map Visuals:-
 
 <img width="1304" alt="image" src="https://user-images.githubusercontent.com/89233753/159429565-cc373abc-20dc-4685-a4c2-6cef9b6f84b8.png">
